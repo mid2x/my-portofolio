@@ -1,2 +1,7 @@
-# my-portofolio
-this is only spare time learning portfolio 
+# Hamid Portofilio
+
+this is only spare time learning portfolio using react and AWS
+
+Git & github
+SSH
+

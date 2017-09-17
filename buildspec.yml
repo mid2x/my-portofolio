@@ -2,11 +2,11 @@ version: 0.1
 phase:
   build:
     commands:
-      ~ echo nothting to do yet
+      - echo nothting to do yet
 artifacts:
   files:
-    ~ index.html
-    ~ favicon.ico
-    ~ Hamid1.1.pdf
-    ~ styles/main.css
-    ~ images/*
+    - index.html
+    - favicon.ico
+    - Hamid1.1.pdf
+    - styles/main.css
+    - images/*

@@ -2,7 +2,8 @@ version: 0.1
 phase:
   build:
     commands:
-      - echo nothting to do yet
+      - npm install
+      - npm run webpack
 artifacts:
   files:
     - index.html
@@ -10,3 +11,4 @@ artifacts:
     - Hamid1.1.pdf
     - styles/main.css
     - images/*
+    - dist/bundel.js

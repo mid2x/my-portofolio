@@ -2,8 +2,8 @@ version: 0.1
 phase:
   build:
     commands:
-      - npm install
-      - npm run webpack
+      - sudo npm install
+      - sudo npm run webpack
 artifacts:
   files:
     - index.html

@@ -1,12 +1,8 @@
 version: 0.1
 phases:
-  pre_build:
-    commands:
-      - npm install
-      - npm test
-phases:
   build:
     commands:
+      - npm install
       - npm run webpack
 artifacts:
   files:

@@ -4,7 +4,6 @@ phases:
     commands:
       - npm install
       - npm test
-phases:
   build:
     commands:
       - npm run webpack
